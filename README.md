@@ -3,8 +3,9 @@
 
 Full Pixelblaze pattern scaffold codebase for “Programmable LED Dance Costumes: Designing Embodied Wearable Technology to Enhance Kinesthetic Expression for Dance Performance.” The performance featuring this code took place at the University of California, Santa Barbara on March 5, 2026. The video can be found at [https://vimeo.com/1199302223](https://vimeo.com/1199302223), and it demonstrates the programmable LED dance costumes in live performance, including pixel-mapped lighting patterns and movement-based visual expression.
 
-
 Siddharth Chattoraj. 2026. Programmable LED Dance Costumes: Designing Embodied Wearable Technology to Enhance Kinesthetic Expression for Dance Performance. In Special Interest Group on Computer Graphics and Interactive Techniques Conference Posters (SIGGRAPH Posters ’26), July 19–23, 2026, Los Angeles, CA, USA. ACM, New York, NY, USA, 3 pages. https://doi.org/10.1145/3799825.3818701
+
+More information about coding in Pixelblaze can be found on the [ElectroMage Language Reference](https://electromage.com/docs/language-reference). This work used a Pixelblaze V3 Standard in each costume.
 
 ## Pattern Scaffolds (15 Total)
 
