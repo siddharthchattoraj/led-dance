@@ -7,13 +7,6 @@ Siddharth Chattoraj. 2026. Programmable LED Dance Costumes: Designing Embodied W
 
 More information about coding in Pixelblaze can be found on the [ElectroMage Language Reference](https://electromage.com/docs/language-reference). This work used a Pixelblaze V3 Standard in each costume.
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
-The codebase is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
 ## Pattern Scaffolds (15 Total)
 
 All pattern scaffolds can be modified live or reset at any time. Each code file creates a toggle-based UI system, where designers can increase or decrease effects in real time. Within the toggles, "On" or "Off" does not matter. The system is designed as such, rather than built to modify patterns via sliders, to enable the designer to reset the pattern scaffold.
